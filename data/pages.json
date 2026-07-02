@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Главная",
+    "url": ""
+  },
+  {
+    "name": "Каталог",
+    "url": "/catalog"
+  },
+  {
+    "name": "Доставка",
+    "url": "/delivery"
+  },
+  {
+    "name": "О нас",
+    "url": "/about"
+  },
+  {
+    "name": "Контакты",
+    "url": "/contacts"
+  },
+  {
+    "name": "Обратная связь",
+    "url": "/feedback"
+  },
+  {
+    "name": "Корзина",
+    "url": "/cart"
+  }
+]
