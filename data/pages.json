@@ -12,6 +12,10 @@
     "url": "/delivery"
   },
   {
+    "name": "Акции",
+    "url": "/promotions"
+  },
+  {
     "name": "О нас",
     "url": "/about"
   },
@@ -26,5 +30,9 @@
   {
     "name": "Корзина",
     "url": "/cart"
+  },
+  {
+    "name": "FAQ",
+    "url": "/faq"
   }
 ]
