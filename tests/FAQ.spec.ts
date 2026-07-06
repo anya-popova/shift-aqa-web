@@ -4,5 +4,7 @@ test('Раскрытый бургер ответа на вопрос на ста
 
     await page.goto('/faq');
     await page.getByTestId('faq-question-1').click();
-    await expect.soft(page).toHaveScreenshot();
+    await expect.soft(page).toHaveScreenshot({
+        fullPage: true,
+    });
 });
