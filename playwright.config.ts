@@ -46,20 +46,20 @@ export default defineConfig({
     //     viewport: { width: 1024, height: 1080 }    // разрешение планшета
     //   },
     // },
-    {
-      name: 'Mobile chrome - 768',
-      use: {
-        browserName: 'chromium',
-        viewport: { width: 768, height: 1080 }     // разрешение мобильного устройства
-      },
-    },
-    {
-      name: 'Mobile chrome - 360',
-      use: {
-        browserName: 'chromium',
-        viewport: { width: 360, height: 1080 }     // разрешение мобильного устройства
-      },
-    }, 
+    // {
+    //   name: 'Mobile chrome - 768',
+    //   use: {
+    //     browserName: 'chromium',
+    //     viewport: { width: 768, height: 1080 }     // разрешение мобильного устройства
+    //   },
+    // },
+    // {
+    //   name: 'Mobile chrome - 360',
+    //   use: {
+    //     browserName: 'chromium',
+    //     viewport: { width: 360, height: 1080 }     // разрешение мобильного устройства
+    //   },
+    // }, 
     // {
     //   name: 'Mobile Safari',
     //   use: { ...devices['iPhone 12'] },     // Эмуляция мобильного девайса iphone 12 safari
